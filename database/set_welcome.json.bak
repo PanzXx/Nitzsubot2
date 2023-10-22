@@ -1,0 +1,1 @@
+await fetchJson('https://api.zeltoria.my.id/api/maker/welcome?name=Zeltoria&gpname=Zeltoria-Api&member=1&pp=https://telegra.ph/file/f492065d44c897cd3836e.png&bg=https://telegra.ph/file/fea867e29574ad52c3660.jpg&apikey=Elistz')
